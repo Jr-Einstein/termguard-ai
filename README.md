@@ -1,5 +1,3 @@
-readme: |-
-
 # TermGuard – AI-Powered Terms & Conditions Analyzer
 
 > Understand what you’re really agreeing to before you click **“I Agree”**.
