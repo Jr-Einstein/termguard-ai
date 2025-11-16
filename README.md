@@ -1,6 +1,9 @@
 # TermGuard – AI-Powered Terms & Conditions Analyzer
 
 > Understand what you’re really agreeing to before you click **“I Agree”**.
+> 
+> <img width="1347" height="604" alt="image" src="https://github.com/user-attachments/assets/ad4bca55-e50e-4880-9043-94f02b388e67" />
+
 
 [![Live Demo](https://img.shields.io/badge/demo-termguard.lovable.app-4F46E5?style=for-the-badge)](https://termguard.lovable.app)
 ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
@@ -115,45 +118,6 @@ The problem isn’t just poor security – it’s that **humans can’t realisti
   * Deployed frontend at: [https://termguard.lovable.app](https://termguard.lovable.app)
 
 > 💡 You can add or swap logos easily by editing the `<img>` tags above with your preferred image URLs.
-
----
-
-## 🖼 Screenshots (add your own)
-
-You can add screenshots of the app to this section. Here are some options you can use in `README.md`:
-
-### Option 1 – Local images in repo
-
-```md
-<!-- Place your screenshots in ./docs/screenshots/ -->
-
-### 🔓 Auth Pages
-
-![Login Page](./docs/screenshots/login.png)
-![Sign Up Page](./docs/screenshots/signup.png)
-
-### 📊 Dashboard
-
-![Analyzer Dashboard](./docs/screenshots/dashboard.png)
-```
-
-### Option 2 – Remote image URLs (e.g., from GitHub Issues or image host)
-
-```md
-### 📊 Dashboard
-
-![Analyzer Dashboard](https://your-image-host.com/termguard-dashboard.png)
-```
-
-### Option 3 – HTML for more control (size, alignment)
-
-```html
-<p align="center">
-  <img src="./docs/screenshots/dashboard.png" alt="TermGuard Dashboard" width="800" />
-</p>
-```
-
-> 📌 Replace the example paths/URLs with your own screenshot files or hosted links.
 
 ---
 
