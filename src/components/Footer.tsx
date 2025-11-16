@@ -21,8 +21,9 @@ export const Footer = () => {
           </div>
         </div>
         
-        <div className="mt-4 text-center text-xs text-muted-foreground">
-          This tool does not provide legal advice. Results are for informational purposes only.
+        <div className="mt-4 text-center text-xs text-muted-foreground space-y-1">
+          <p>This tool does not provide legal advice. Results are for informational purposes only.</p>
+          <p>© 2025 Aman Kumar Singh</p>
         </div>
       </div>
     </footer>
